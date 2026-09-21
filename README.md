@@ -1,20 +1,33 @@
-# <h1 align="center">Hi there, I'm Priyanshu Bisht 👋</h1>
-
+<!-- Animated Gradient Waving Header with Twinkling Stars -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Machine+Learning+%26+Deep+Learning+Engineer;Computer+Vision+%7C+Dual-Head+YOLOv8;Edge+AI+%26+Embedded+Intelligence;Cybersecurity+%26+Python+Developer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=220&section=header&text=Priyanshu%20Bisht&fontSize=50&fontAlignY=36&fontAlign=50&desc=Machine%20Learning%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Edge%20AI&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Header Banner" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-bisht-bh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:priyanshubisht2611@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/priyanshubisht2611-prog">
-    <img src="https://img.shields.io/github/followers/priyanshubisht2611-prog?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers" />
-  </a>
-</p>
+<!-- Interactive Floating Hologram Developer & Dynamic Neon Typing Terminal -->
+<table border="0" width="100%">
+  <tr>
+    <td width="65%" valign="middle">
+      <h2 align="left">⚡ Welcome to my Neural Hub!</h2>
+      <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F5FF&center=false&vCenter=true&width=550&lines=%3E_Building+Dual-Head+YOLOv8s+Vision;%3E_Deploying+Edge+AI+on+ESP32+%2B+LoRa;%3E_Pioneering+Sonar+Object+Detection;%3E_Engineering+Resilient+ML+Pipelines" alt="Typing SVG" />
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/priyanshu-bisht-bh/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="mailto:priyanshubisht2611@gmail.com">
+          <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+        <a href="https://github.com/priyanshubisht2611-prog">
+          <img src="https://img.shields.io/github/followers/priyanshubisht2611-prog?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers" />
+        </a>
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" alt="Coding Hologram Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -25,6 +38,16 @@
 - 💡 **Passionate about:** Solving real-world computer vision problems, building resilient end-to-end applications, and engineering scalable architectures.
 - 💼 **LinkedIn:** [linkedin.com/in/priyanshu-bisht-bh](https://www.linkedin.com/in/priyanshu-bisht-bh/)
 - 📫 **Email:** [priyanshubisht2611@gmail.com](mailto:priyanshubisht2611@gmail.com)
+
+---
+
+### 🛠️ Skills & Superpowers
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,tensorflow,scikitlearn,fastapi,react,ts,docker,git,github,linux,cpp,js&theme=dark" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
@@ -94,34 +117,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-#### **Machine Learning & Data Science**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
-#### **Development, Cloud & Edge**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
+### 📊 Live Analytics & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshubisht2611-prog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Priyanshu's GitHub Stats" />
@@ -133,6 +129,11 @@
 
 ---
 
+<!-- Animated Gradient Waving Footer -->
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/priyanshubisht2611-prog">Priyanshu Bisht</a> — Connect on <a href="https://www.linkedin.com/in/priyanshu-bisht-bh/">LinkedIn</a>!</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=footer" width="100%" alt="Footer Banner" />
+</p>
+
+<p align="center">
+  <i>⭐️ Built with passion by <a href="https://github.com/priyanshubisht2611-prog">Priyanshu Bisht</a> — Connect on <a href="https://www.linkedin.com/in/priyanshu-bisht-bh/">LinkedIn</a>!</i>
 </p>
