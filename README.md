@@ -9,7 +9,7 @@
     <td width="65%" valign="middle">
       <h2 align="left">⚡ Welcome to my Neural Hub!</h2>
       <p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F5FF&center=false&vCenter=true&width=550&lines=%3E_Building+Dual-Head+YOLOv8s+Vision;%3E_Deploying+Edge+AI+on+ESP32+%2B+LoRa;%3E_Pioneering+Sonar+Object+Detection;%3E_Engineering+Resilient+ML+Pipelines" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F5FF&center=false&vCenter=true&width=550&lines=%3E_Building+Dual-Head+YOLOv8s+Vision;%3E_Deploying+Edge+AI+on+ESP32+%2B+LoRa;%3E_Pioneering+Sonar+Object+Detection;%3E_Engineering+Resilient+ML+Pipelines;%3E_Securing+Logs+with+SHA-256+%2B+Blockchain" alt="Typing SVG" />
       </p>
       <p>
         <a href="https://www.linkedin.com/in/priyanshu-bisht-bh/">
@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,tensorflow,scikitlearn,fastapi,react,ts,docker,git,github,linux,cpp,js&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,tensorflow,scikitlearn,fastapi,react,ts,solidity,docker,git,github,linux,cpp,js&theme=dark" alt="My Skills" />
   </a>
 </p>
 
@@ -97,7 +97,28 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ Sentinel Vault</h3>
+      <p align="center"><b>Tamper-Proof Security Log Vault with Blockchain Anchoring & AI Forensics</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+        <img src="https://img.shields.io/badge/SHA--256-FF4500?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+      <ul>
+        <li><b>Cryptographic Hash Chain:</b> Organizes logs into strict 1-hour windows; each window's SHA-256 hash chains to the previous, making silent tampering mathematically impossible.</li>
+        <li><b>Blockchain Immutability:</b> Anchors Merkle root hashes onto EVM blockchains via <code>LogVault.sol</code> (Hardhat + Web3) for independently verifiable proof.</li>
+        <li><b>Dual-Custody Authorization:</b> Enforces two-principal multi-signature approval before any sensitive log operation executes.</li>
+        <li><b>AI Threat Scoring:</b> Real-time behavioral anomaly detection + local Ollama/Qwen LLM forensic incident explanations, with Firebase push alerts.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/priyanshubisht2611-prog/Chaotic-coders_Tamper-Proof-Security-Log-Vault"><b>View Sentinel Vault Repository ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🔐 Password Strength & Security Analyzer</h3>
       <p align="center"><b>Information-Theoretic Security Analysis & Attack Simulation</b></p>
       <p align="center">
@@ -111,6 +132,9 @@
         <li><b>Attack Simulation:</b> Simulates dictionary attacks, common substitutions (l33t speak), and brute-force cracking times across CPU and multi-GPU clusters.</li>
         <li><b>Pattern Recognition:</b> Detects predictable keyboard walks, date patterns, and repeated sub-strings to suggest resilient, high-entropy alternatives.</li>
       </ul>
+      <p align="center">
+        <a href="https://github.com/priyanshubisht2611-prog/Password-Cracker-Strength-Analyzer"><b>View Repository ➔</b></a>
+      </p>
     </td>
   </tr>
 </table>
