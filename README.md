@@ -137,6 +137,29 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🔗 LinkPulse</h3>
+      <p align="center"><b>AI URL Shortener & Phishing Threat Detection Platform</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <ul>
+        <li><b>ML Phishing Detection:</b> Evaluates 23 structural and lexical features with a Random Forest classifier, delivering <b>99.52% accuracy</b> and real-time risk scores (0–100).</li>
+        <li><b>Collision-Resistant Shortener:</b> Generates 6-character short codes using cryptographic random generation with automatic URL deduplication.</li>
+        <li><b>Real-Time Analytics & QR Engine:</b> Aggregates daily trends, global click metrics, paginated per-link tables, streaming CSV exports, and dynamic QR code generation.</li>
+        <li><b>Chrome Extension (Manifest V3):</b> Inspects URLs directly on active browser tabs with instant threat classification (Safe, Suspicious, Malicious).</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/priyanshubisht2611-prog/Chaotic--coders-Link-Pulse"><b>View LinkPulse Repository ➔</b></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
